@@ -1,6 +1,6 @@
 # Loan Renewal Prediction
 
-![alt text](https://www.araglegal.com/member/learning-center/topics/home-and-property/home-mortgage-basics-loan-types-interest-rates/home_mortgage_basics.jpeg)
+![Screenshot](image.jpeg)
 
 ## Description
 Relationship managers for small and medium enterprises (SMEs) have a large client portfolio. This makes it difficult to keep track of their clients. As a result, banks serve SMEs in a reactive manner. Banks want to help their relationship managers to better serve their clients.
